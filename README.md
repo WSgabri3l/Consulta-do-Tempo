@@ -10,3 +10,6 @@ Tecnologias usadas:
 
 
 Esse foi o primeiro momento em que me utilizei de APIs em códgios, utilizando aqui uma para adquirir informações sobre o tempo a depender da cidade.
+
+
+A API utilizada foi OpenWeatherMap.
